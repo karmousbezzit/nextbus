@@ -1,0 +1,28 @@
+{
+	" DATA ": {
+		" 46675 ": {
+			" 31A ": [{
+					" destination ": " Gare de Vaise ",
+					" passage1 ": " 7 min ",
+					" typePassage1 ": " E ",
+					" passage2 ": " 22 min ",
+					" typePassage2 ": " T "
+				}, {
+					" destination ": " Perrache ",
+					" passage1 ": " Proche ",
+					" typePassage1 ": " E ",
+					" passage2 ": " 14 min ",
+					" typePassage2 ": " T "
+				}
+			],
+			" 43A ": [{
+					" destination ": " Gare de Vaise ",
+					" passage1 ": " 8 min ",
+					" typePassage1 ": " E ",
+					" passage2 ": " 18 min ",
+					" typePassage2 ": " E "
+				}
+			]
+		}
+	}
+}
